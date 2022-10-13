@@ -8,3 +8,4 @@ Assigned tasks
 7. The 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory
 8. The 7-movethatfile moves a files from the /tmp/ directory to the /tmp/my_first_directory directory
 9. The 8-firstdelete script deletes a file called betty in the /tmp/my_first_directory
+10. The 9-firstdirdeletion script deleted the fold my_first_directory in the /tmp/ directory
