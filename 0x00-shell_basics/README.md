@@ -6,3 +6,4 @@ Assigned tasks
 5. The 4-listmorefiles script lists files of the current directory including hidden file 
 6. The 5-listfiledigit only script lists files with user and group IDs numerical, and hidden files as well
 7. The 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory
+8. The 7-movethatfile moves a files from the /tmp/ directory to the /tmp/my_first_directory directory
