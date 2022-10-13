@@ -10,3 +10,4 @@ Assigned tasks
 9. The 8-firstdelete script deletes a file called betty in the /tmp/my_first_directory
 10. The 9-firstdirdeletion script deleted the fold my_first_directory in the /tmp/ directory
 11. The 10-back script changes the present directory to previous one
+The 11-listit script lists contents of the current directory, previous and /boot including hidden files in long format
