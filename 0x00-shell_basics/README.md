@@ -12,3 +12,4 @@ Assigned tasks
 11. The 10-back script changes the present directory to previous one
 12. The 11-listit script lists contents of the current directory, previous and /boot including hidden files in long format
 13. The 12-file_type script prints the file type of a file found in the /tmp/ directory
+14. The 13-symbolic_link script creates a symbolick link in the current directory for /bin/ls file
